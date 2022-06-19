@@ -5,3 +5,4 @@ setwd("D:/Data Sciencie/Platzi/R/R_Fundamentals")
 getwd()
 
 
+#
